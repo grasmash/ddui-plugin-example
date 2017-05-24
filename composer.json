@@ -1,0 +1,7 @@
+{
+    "name": "grasmash/ddui-plugin-example",
+    "description": "DrupalDev UI Plugin Example.",
+    "type": "library",
+    "license": "GPL-2.0+",
+    "require": {}
+}
